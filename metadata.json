@@ -1,0 +1,8 @@
+{
+  "name": "Mongil Bila Resort",
+  "description": "Experience Nature, Comfort & Unforgettable Moments. Luxury eco-resort nestled in bamboo hills offering luxury cottages, villas, fine dining, and online bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
